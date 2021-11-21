@@ -21,7 +21,7 @@ variables:
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
-
+# CI- Build\Push Docker Zone
 stages:
 - stage: Build
   displayName: Build stage
@@ -44,7 +44,8 @@ stages:
 
     - upload: manifests
       artifact: manifests
-
+      
+# Staging Zone
 - stage: Deploy
   displayName: Deploy stage
   dependsOn: Build

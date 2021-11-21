@@ -58,7 +58,8 @@ helm install my-release bitnami/nginx-ingress-controller
 
 
 
-# Node.js Weight Tracker
+
+## Node.js Weight Tracker
 
 ![Demo](docs/build-weight-tracker-app-demo.gif)
 

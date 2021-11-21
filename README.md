@@ -39,3 +39,8 @@ helm install my-release bitnami/nginx-ingress-controller
                 
 * Kubectl Apply to deployment.yml
 * Run the pipeline and check that your applications are running :)
+
+The full process:
+![image](https://user-images.githubusercontent.com/71599740/142738639-068572f2-c29b-4b4f-92d3-e6c316064c8d.png)
+
+![image](https://user-images.githubusercontent.com/47865329/142753458-0083b2b4-7bb7-4ebc-8df1-1173d5a2311b.png)

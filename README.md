@@ -45,15 +45,15 @@ helm install my-release bitnami/nginx-ingress-controller
 
 ![image](https://user-images.githubusercontent.com/47865329/142753458-0083b2b4-7bb7-4ebc-8df1-1173d5a2311b.png)
 
-## Project structure
+# Project structure
 ![image](https://user-images.githubusercontent.com/89352211/142737633-c7e2a8fb-956d-489d-bafa-8886fecfa515.png)
 ![image](https://user-images.githubusercontent.com/89352211/142737732-ec01d94f-384e-4405-b6c4-7b2cb4be5b56.png)
 
-# The staging:
+## The staging:
 ![image](https://user-images.githubusercontent.com/47865329/142753716-44ffa14d-b934-46f2-bb16-b6bf3b31af9e.png)
 
 
-# The production:
+## The production:
 ![image](https://user-images.githubusercontent.com/47865329/142753739-12f32177-eff6-417f-aad8-acb9dbef8b1c.png)
 
 
